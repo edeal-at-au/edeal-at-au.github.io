@@ -149,6 +149,8 @@ a:hover {
 .sidebar-widget-con {
     border: 1px solid #e8e8e8;
     padding: 15px 10px;
+    max-height: 460px;
+    overflow: auto;
 }
 
 .sidebar-widget-con ul {
