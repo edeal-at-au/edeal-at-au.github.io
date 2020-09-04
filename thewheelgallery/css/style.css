@@ -229,6 +229,9 @@ a:hover {
 .single-product-con {
     border: 1px solid #e8e8e8;
     padding: 15px 10px;
+}
+
+.single-product-con.product-list {
     max-height: 460px;
     overflow: auto;
 }
